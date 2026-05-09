@@ -3,26 +3,6 @@
 README.md
 # JavaScript Basics Demo
 
-This project is a simple HTML file that demonstrates basic JavaScript concepts such as:
-
-- Variables
-- Data Types
-- Console Output
-- Template Literals
-- Type Conversion
-- `typeof` Operator
-- `parseInt()` Function
-
----
-
-## 📁 Project Structure
-
-```bash
-project-folder/
-│
-├── index.html
-└── README.md
-🚀 Features
 1. Console Logging
 
 Print messages and variables using console.log().
@@ -70,22 +50,6 @@ Example:
 let myfathers = "abdul";
 myfathers = parseInt(myfathers);
 
-console.log(myfathers); // NaN
-🖥️ How to Run
-Save the code in a file named index.html
-Open the file in any web browser
-Open Browser Developer Console:
-Right Click → Inspect
-Go to the Console tab
-View the output
-📚 Concepts Covered
-Concept	Description
-console.log()	Prints output to console
-let	Declares variables
-const	Declares constant values
-typeof	Checks data type
-parseInt()	Converts string to integer
-Template Literals	String interpolation using backticks
 🧪 Example Output
 My Name Is Mudasir
 My Name is : LimNumber 34
